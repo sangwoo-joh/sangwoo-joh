@@ -1,6 +1,6 @@
 # Sangwoo Joh
 
 ## Interests
- * Programming Languages Theory
- * Type Theory
- * Parallel and Asynchronous Programming
+ * Programming Languages Theory, Type Theory
+ * Parallel, Asynchronous Programming
+ * Garbage Collection
